@@ -1,0 +1,29 @@
+
+
+.header{
+	background: #484848;
+}
+.col-md-5{
+	color: white;
+}
+.col-md-6{
+	margin-top: 3px;
+}
+.middle{
+	padding-top: 10px;
+	background-color: #eee;
+	padding-bottom: 25px;
+}
+.container h1{
+	font-weight: bold;
+ 	}
+
+  .col-md-9{
+    padding-top: 10px;
+  }
+    .col-md-9 p{ 
+      font-weight: bold;
+  }
+.col-md-4{
+  padding: 0
+}
